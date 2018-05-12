@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '41019'
     url: http://www.gutenberg.org/2009/agents/41019
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41173#Address-to-the-Non-Slaveholders-of-the-Southon-the-Social-and-Political-Evils-of-Slavery
 gutenberg_issued: '2012-10-25'
 gutenberg_type: Text
 identifiers:
